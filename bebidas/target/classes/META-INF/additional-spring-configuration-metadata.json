@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "@EnableEurekaServe",
+    "type": "java.lang.String",
+    "description": "A description for '@EnableEurekaServe'"
+  },
+  {
+    "name": "@Enab",
+    "type": "java.lang.String",
+    "description": "A description for '@Enab'"
+  }
+]}
